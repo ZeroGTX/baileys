@@ -38,7 +38,7 @@ Use the edge version (no guarantee of stability, but latest fixes + features)
 ```
 yarn add github:ZeroGTX/Baileys
 ```
-sharp optional version:
+sharp optimal version:
 ```
 npm install sharp@0.32.2
 ```
